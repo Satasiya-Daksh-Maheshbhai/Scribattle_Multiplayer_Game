@@ -1,4 +1,5 @@
-<img width="867" height="752" alt="image" src="https://github.com/user-attachments/assets/15eae017-aef7-4c8b-8598-97b8ce99c9ad" /># 🎨 Scribattle – Draw, Guess & Battle! 🚀
+# 🎨 Scribattle – Draw, Guess & Battle! 🚀
+<img width="867" height="752" alt="image" src="https://github.com/user-attachments/assets/15eae017-aef7-4c8b-8598-97b8ce99c9ad" />
 
 ### 🖌️ Turn your creativity into a multiplayer battle!
 
