@@ -60,7 +60,7 @@ git clone https://github.com/YOUR-USERNAME/scribattle-multiplayer.git
 ### 2️⃣ Navigate to Project Directory
 
 ```bash
-cd scribattle-multiplayer
+cd Scribattle_Multiplayer_Game-main
 ```
 
 ### 3️⃣ Install Dependencies
