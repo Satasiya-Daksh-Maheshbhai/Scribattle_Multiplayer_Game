@@ -1,4 +1,4 @@
-# 🎨 Scribattle – Draw, Guess & Battle! 🚀
+<img width="867" height="752" alt="image" src="https://github.com/user-attachments/assets/15eae017-aef7-4c8b-8598-97b8ce99c9ad" /># 🎨 Scribattle – Draw, Guess & Battle! 🚀
 
 ### 🖌️ Turn your creativity into a multiplayer battle!
 
@@ -107,6 +107,17 @@ http://localhost:3000
 * Fun multiplayer experience with friends.
 
 ---
+
+## Sample Output 
+<img width="1176" height="910" alt="image" src="https://github.com/user-attachments/assets/e51f42df-bef4-4803-bb9b-997dc8f5911d" />
+<img width="1197" height="642" alt="image" src="https://github.com/user-attachments/assets/ef1f151e-757e-47d9-95d5-ff521591d3dc" />
+<img width="867" height="752" alt="image" src="https://github.com/user-attachments/assets/57b4eebd-db40-43b7-a420-eb96ccdbbf17" />
+<img width="1182" height="642" alt="image" src="https://github.com/user-attachments/assets/5e2cdd98-a63a-4019-9e8c-765243ce8275" />
+<img width="1191" height="888" alt="image" src="https://github.com/user-attachments/assets/5263a25c-8826-4b03-bde2-5bf4e31a7c02" />
+<img width="1188" height="888" alt="image" src="https://github.com/user-attachments/assets/8b9f4aee-1225-48ad-a133-e55707a1c256" />
+<img width="324" height="592" alt="image" src="https://github.com/user-attachments/assets/e344603a-01c2-40dc-9f4d-ab941df47fb8" />
+<img width="1221" height="603" alt="image" src="https://github.com/user-attachments/assets/4c00b395-be73-4289-88b9-bc0df64f5b4c" />
+
 
 ## 👨‍💻 Developer
 
