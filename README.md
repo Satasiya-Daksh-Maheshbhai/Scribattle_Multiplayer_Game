@@ -54,7 +54,7 @@ Follow these steps to run Scribattle locally.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/scribattle-multiplayer.git
+git clone https://github.com/Satasiya-Daksh-Maheshbhai/Scribattle_Multiplayer_Game.git
 ```
 
 ### 2️⃣ Navigate to Project Directory
